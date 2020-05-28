@@ -5,7 +5,7 @@ This program was developed with C.
 It can Enter, Change, Delete, and Search Contacts. 
 It uses a makefile to compile multiple C files at once. 
 
-Makefile: 
+Makefile Compilation: 
 ![](Makefile%20Run.png)
 
 Code Run: Screenshots of the running program using ubuntu
